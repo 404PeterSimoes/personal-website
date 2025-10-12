@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Minecraft;
+    src: url(assets/fonts/1_Minecraft-Regular.otf);
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    font-family: Minecraft;
+    text-decoration: none;
+}
